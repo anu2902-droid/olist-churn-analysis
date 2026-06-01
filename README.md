@@ -46,6 +46,10 @@ olist-churn-analysis/
 3. **São Paulo** drives 40%+ of total revenue — churn here has outsized impact
 4. **Credit card** accounts for 75%+ of payment volume
 5. **Beauty & health** is the top revenue category at $1.2M
+6. **B2B Buyer Pattern** — High-ticket categories (office furniture $401 avg, 
+fixed telephony $1,475 avg) cluster heavily during business hours (10AM-4PM), 
+suggesting a distinct corporate buyer segment that standard RFM segmentation 
+does not capture. Recommendation: separate segmentation strategy for B2B buyers.
 
 ## Dashboard
 🔗 [View Live Tableau Dashboard](https://public.tableau.com/app/profile/anjali.tallapally3611/viz/OlistE-CommerceAnalytics_17803467526630/Dashboard1)
